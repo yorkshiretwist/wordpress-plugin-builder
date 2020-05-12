@@ -9,14 +9,14 @@
  * this starts the plugin.
  *
  * @link              http://www.stillbreathing.co.uk/wordpress/plugin-builder
- * @since             1.0.0
+ * @since             1.0.2
  * @package           Plugin_Builder
  *
  * @wordpress-plugin
  * Plugin Name:       Plugin Builder
  * Plugin URI:        http://www.stillbreathing.co.uk/wordpress/plugin-builder
  * Description:       Build a plugin from the WordPress Plugin Boilerplate.
- * Version:           1.0.0
+ * Version:           1.0.2
  * Author:            Chris Taylor
  * Author URI:        http://www.stillbreathing.co.uk/wordpress/plugin-builder/
  * License:           GPL-2.0+
